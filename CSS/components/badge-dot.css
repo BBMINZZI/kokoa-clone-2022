@@ -1,0 +1,17 @@
+.badge-dot {
+  position: absolute;
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+
+.badge-dot__position1 {
+  right: -7px;
+  top: -7px;
+}
+
+.badge-dot__position2 {
+  right: 16px;
+  top: -18px;
+}

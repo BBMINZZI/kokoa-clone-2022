@@ -1,0 +1,13 @@
+:root {
+  /* color */
+  --yellow: #fae100;
+  --light-gray: #f6f6f6;
+  --gray: #cbcbcb;
+  --dark-gray: #a5a5a5;
+
+  /* space */
+  --horizontal-space: 20px;
+
+  /* defalt */
+  --line: 1px solid rgba(0, 0, 0, 0.1);
+}
